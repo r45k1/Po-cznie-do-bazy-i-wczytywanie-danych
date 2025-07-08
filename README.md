@@ -1,2 +1,2 @@
-# Connect datebase locked password
+# Database connection with password protection
 Script added record on mySQL
